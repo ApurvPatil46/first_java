@@ -3,5 +3,6 @@
  
   <groupId>com.mycompany.app</groupId>
   <artifactId>First_Java_Job</artifactId>
+  <packaging>war</packaging>
   <version>1</version>
 </project>
